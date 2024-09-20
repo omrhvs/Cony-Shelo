@@ -1,0 +1,12 @@
+.titulo-producto-carrusel{
+    text-align: center;
+    font-family: 'Space Grotesk';font-size: 36px;
+    font-weight: bold;
+}
+
+.descripcion-producto-carrusel{
+    text-align: center;
+    font-family: 'Space Grotesk';font-size: 22px;
+    font-weight: 300;
+}
+

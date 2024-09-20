@@ -1,0 +1,7 @@
+#registro-container{
+    width: 55%;
+    border: 1px;
+    border-radius: 15px 15px 15px 15px;
+    margin: 0 auto;
+    background-color: rgb(248, 249, 250);
+}

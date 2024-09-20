@@ -1,0 +1,21 @@
+#footer{
+  font-family: "Cantarell", sans-serif;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+#footer *{
+  font-family: "DM Sans", sans-serif;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main{
+  flex: 1;
+}
